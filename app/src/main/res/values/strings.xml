@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinLess3</string>
+    <string name="choose_photo">Выбор фотографий</string>
+    <string name="choosed_photo">Выбраны фотографии</string>
+    <string name="done">Готово</string>
+    <string name="choosed">Выбранные фотографии</string>
+</resources>
